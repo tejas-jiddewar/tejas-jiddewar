@@ -5,7 +5,6 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 
-
   <p align="center">
     <a href="https://github.com/tejas-jiddewar">
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=0066CC&center=true&vCenter=true&width=650&lines=Data+Analyst+%7C+BI+Enthusiast;Building+dashboards+that+speak+volumes;SQL+%7C+Power+BI+%7C+Tableau+%7C+Excel;Automating+insights+using+data;Let%E2%80%99s+turn+data+into+decisions!" alt="Typing SVG" />
