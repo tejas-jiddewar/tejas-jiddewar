@@ -11,6 +11,7 @@
     </a>
   </p>
 
+
   <div>
     <a href="https://linkedin.com/in/your-linkedin-profile" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -24,21 +25,19 @@
   </div>
 </div>
 
+
 ---
 
+### <h1 align="center"> GitHub Activity in 2025 </h1>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tejas-jiddewar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tejas-jiddewar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=tejas-jiddewar&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tejas-jiddewar&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 ###  <h1 align="center">Tools & Technologies</h1>
-
-<p align="center">
-  <!-- Databases -->
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
-
-  <!-- Programming -->
-  <img src="https://skillicons.dev/icons?i=java,python" alt="Java,Python" />
-
-  <!-- Web Dev -->
-  <img src="https://skillicons.dev/icons?i=html,css,javascript" alt="HTML, CSS,JAVASCRIPT" />
-</p>
-
+---
 <div align="center">
   <picture>
     <source
@@ -55,17 +54,14 @@
     />
   </picture>
 </div>
+<p align="center">
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
 
+  <!-- Programming -->
+  <img src="https://skillicons.dev/icons?i=java,python" alt="Java,Python" />
 
----
-
-### <h1 align="center"> GitHub Activity in 2025 </h1>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tejas-jiddewar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tejas-jiddewar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=tejas-jiddewar&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tejas-jiddewar&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
+  <!-- Web Dev -->
+  <img src="https://skillicons.dev/icons?i=html,css,javascript" alt="HTML, CSS,JAVASCRIPT" />
+</p>
 
