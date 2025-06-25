@@ -1,6 +1,7 @@
 <h2 align="center">Hi 👋, I'm Tejas Jiddewar</h2>
 
 <p align="center">
+  
   <img align="top" height="200" src="https://github-readme-stats.vercel.app/api?username=tejas-jiddewar&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true" />
   <img align="top" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejas-jiddewar&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </p>
